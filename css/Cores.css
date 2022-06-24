@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--bg_site);
+}
+
+:root{
+    --bg_site: #6A89AB;
+    --bg_formbox: #EBEFF7;
+    --color_h1: #727478;
+    --color_border: #D3D6DE;
+    --light_text: #FFFFFF;
+    --dark_text: #626364;
+    --btt_normal: #203A61;
+    --btt_hover: #3560A1;
+    --bg_erro_box: #FA8072;
+    --bg_navbar: #333;
+    --item_hover: #111;
+    --border_avatar: #FFFFFF;
+    --bg_box: #EBEFF7;
+    --border: #aeafb1;
+    --title: #111f33;
+    --bg_table: #333;
+    --st_pen: #D64B38;
+    --st_ini: #ED9F28;
+    --st_con: #38B55C;
+}
+
+:root{
+    --bg_color: rgb(9, 29, 56);
+    --c_white: white;
+    --c_77: #778899;
+    --c_purple:#054F77;
+    --c_btt: #1981CD;
+    --bg_erro: rgb(248, 24, 24);
+}
